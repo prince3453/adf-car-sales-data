@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "servers_carensales_name": {
+            "value": null
+        },
+        "workspaces_carbricks_name": {
+            "value": null
+        },
+        "storageAccounts_carensdatalake_name": {
+            "value": null
+        },
+        "accessConnectors_carsaccessconnector_name": {
+            "value": null
+        },
+        "systemTopics_carensdatalake_a373da0e_86b0_41fc_a43f_4e911215c7cb_name": {
+            "value": null
+        }
+    }
+}
