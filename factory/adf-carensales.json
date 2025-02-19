@@ -1,0 +1,9 @@
+{
+	"name": "adf-carensales",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a39a9a8f-3af3-4b2a-a532-4b0336eb7861",
+		"tenantId": "d34528a7-603b-4ebd-8d0f-48aeb9a93ea6"
+	}
+}
